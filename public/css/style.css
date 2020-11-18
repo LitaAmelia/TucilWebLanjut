@@ -1,0 +1,20 @@
+.referensi {
+    width: 200px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+.featured-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
